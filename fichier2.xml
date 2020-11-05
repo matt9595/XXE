@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE exploit [
+  <!ELEMENT exploit ANY>
   <!ENTITY wwe_url SYSTEM "https://www.google.com/">
 ]>
 <rss version="2.0">
