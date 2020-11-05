@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
-<stockCheck><productId>&xxe;</productId></stockCheck>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
